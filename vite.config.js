@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:['https://ljan31.github.io/Hero-app/']
+  base:['https://ljan31.github.io/Hero-app']
 })
